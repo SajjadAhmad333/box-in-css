@@ -21,7 +21,7 @@
         margin: 0px;} */
 
 /* LIMITING-HEIGHT-IN-CSS */
-h2,
+/* h2,
 p {
   width: 400px;
   font-size: 90%;
@@ -32,7 +32,32 @@ h2 {
   border-bottom: 1px solid #0088dd;
 }
 p {
-  /* min-height: 10px; */
+  min-height: 10px; 
   max-height: 250px;
   border: 1px solid red;
+} */
+
+
+/* OVERFLOW */
+/* p {
+     
+    max-height: 50px;
+    border: 1px solid red;
+    overflow: scroll;
+  }  */
+
+
+  /* BORDER-WIDTH */
+  /* one by one */
+/* p{
+  border-top-width: 1px;
+  border-right-width:2px;
+  border-bottom-width:3px;
+  border-left-width:4px;
 }
+/* SHORTHAND */
+/* p{
+    border-style: solid;
+    border-width: 1px 2px 3px 4px; 
+} */
+   
