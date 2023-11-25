@@ -8,6 +8,14 @@
     width: 200px;
     background-color: wheat;} */
 
-    p{
+    /* p{
       width: 20%;  
-    }
+    } */
+
+    /* LIMITING-WIDTH-IN-CSS */
+    td.description {
+        min-width: 450px;
+        max-width: 650px;
+        text-align: left;
+        padding: 5px;
+        margin: 0px;}
